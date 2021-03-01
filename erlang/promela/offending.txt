@@ -1,0 +1,2 @@
+spin: cannot find trail file
+spin: 1 error(s) - aborting
